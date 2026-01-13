@@ -91,6 +91,38 @@ CSV dataset is small and safe for educational use.
 The code is designed to be reproducible on any machine with Python 3.x installed.
 
 
+# 🔥 Complex Code References
+
+## 🚀 Most Complex Python Code
+**RAG-based PDF Question Answering System**
+
+This project demonstrates advanced Python development involving:
+- API integration
+- PDF parsing and preprocessing
+- Embedding generation
+- Retrieval-Augmented Generation (RAG) pipeline
+- LLM-based response generation
+
+🔗 **Repository Link:**  
+https://huggingface.co/spaces/PriyamKhare03/PDF-AI-Assistant
+
+
+---
+
+## 🗄️ Most Complex Database Code
+**Vector Database & Metadata Storage for RAG System**
+
+The same project includes complex database logic such as:
+- Vector database usage for semantic search
+- Storage of embeddings and document metadata
+- Efficient similarity search and retrieval
+- Integration between Python backend and database layer
+
+🔗 **Repository Link:**  
+https://huggingface.co/spaces/PriyamKhare03/PDF-AI-Assistant
+
+
+
 #✅ Summary
 This repository demonstrates:
 API data fetching and storage in a database.
